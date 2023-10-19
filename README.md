@@ -1,0 +1,1 @@
+This is a simple shell created by Makena Njeru. It contains scripts made in c.
